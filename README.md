@@ -1,7 +1,5 @@
 # UFC Decision Win Strategy Analysis
 
-# UFC Decision Win Strategy Analysis
-
 This project analyzes UFC fight data to derive a strategy for maximizing the chances of winning a fight by decision. The analysis focuses on decision wins where fighters won by unanimous, split, or majority decisions. The primary goal is to calculate average performance metrics for successful decision wins and provide insights on how to increase the likelihood of winning by decision.
 
 ## Table of Contents
