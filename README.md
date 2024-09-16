@@ -47,6 +47,15 @@ The data used for this analysis is based on UFC fight statistics. The dataset (`
 2. Run jupyter notebook localy
 3. ensure you have dataframes file with necessary csv files
 
+## Results
+This analysis provides actionable insights for UFC fighters looking to improve their chances of winning by decision. By understanding and targeting the average performance metrics from successful decision fights, fighters can adjust their strategy to increase their chances of getting the win on the judges' scorecards.
+
+## Dependencies
+This project requires the following Python libraries:
+
+- pandas
+- numpy
+
 Contact
 If you have any questions or feedback, feel free to reach out:
 
