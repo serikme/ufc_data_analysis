@@ -44,8 +44,11 @@ The data used for this analysis is based on UFC fight statistics. The dataset (`
 ## Usage
 ### Running the Code
 1. Clone the repository or download the project files.
-2. Ensure you have the `fighter_stat.csv` file in the same directory as the script.
-3. Run the Python script to analyze the data and generate the decision win strategy.
+2. Run jupyter notebook localy
+3. ensure you have dataframes file with necessary csv files
 
-```bash
-python ufc_decision_win_strategy.py
+Contact
+If you have any questions or feedback, feel free to reach out:
+
+Email: daniyar.serik.me@gmail.com
+
