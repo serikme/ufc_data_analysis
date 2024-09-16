@@ -56,7 +56,7 @@ This project requires the following Python libraries:
 - pandas
 - numpy
 
-Contact
+## Contact
 If you have any questions or feedback, feel free to reach out:
 
 Email: daniyar.serik.me@gmail.com
